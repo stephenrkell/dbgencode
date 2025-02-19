@@ -1,0 +1,6 @@
+[submodule "contrib/toolsub"]
+	path = contrib/toolsub
+	url = https://github.com/stephenrkell/toolsub
+[submodule "contrib/cil"]
+	path = contrib/cil
+	url = https://github.com/stephenrkell/cil
